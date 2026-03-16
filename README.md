@@ -12,5 +12,4 @@ A simple C++ code to split expenses among friends
   # Author
   - Rudraksh Arora
   - Nikhil
-  - 
   
